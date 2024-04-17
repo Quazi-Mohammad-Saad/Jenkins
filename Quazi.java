@@ -15,5 +15,7 @@ public static void main(String[] args){
 	integerArrayList.add(10);
 	integerArrayList.add((100));
 	System.out.println(integerArrayList);
+	QuaziNew quaziNew = new QuaziNew();
+	quaziNew.QuaziMethod("Sidra");
 }
 }
