@@ -17,5 +17,6 @@ public static void main(String[] args){
 	System.out.println(integerArrayList);
 	QuaziNew quaziNew = new QuaziNew();
 	quaziNew.QuaziMethod("Sidra");
+	System.out.println("20 April Updation");
 }
 }
