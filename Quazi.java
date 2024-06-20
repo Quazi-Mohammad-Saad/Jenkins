@@ -22,5 +22,7 @@ public static void main(String[] args){
 	System.out.println("Sidra got married with Anwar");
 	System.out.println("----- this is also an updation -----");
 	System.out.println("I went home for her marriage as she asked me to come");
+	System.out.println("--- updation 3 ---");
+	System.out.println("I talked her and clicked some photos also");
 }
 }
