@@ -20,5 +20,7 @@ public static void main(String[] args){
 //	System.out.println("20 April Updation");
 	System.out.println("Update on 20 june 2024");
 	System.out.println("Sidra got married with Anwar");
+	System.out.println("----- this is also an updation -----");
+	System.out.println("I went home for her marriage as she asked me to come");
 }
 }
