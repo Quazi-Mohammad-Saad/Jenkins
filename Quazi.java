@@ -19,10 +19,12 @@ public static void main(String[] args){
 	quaziNew.QuaziMethod("Sidra");
 //	System.out.println("20 April Updation");
 	System.out.println("Update on 20 june 2024");
-	System.out.println("Sidra got married with Anwar");
+	System.out.println("thumbs up");
 	System.out.println("----- this is also an updation -----");
 	System.out.println("I went home for her marriage as she asked me to come");
 	System.out.println("--- updation 3 ---");
 	System.out.println("I talked her and clicked some photos also");
+	System.out.println("--- updation 4 on 23 june for testing ---");
+	System.out.println("Black bottle and Thumbs up");
 }
 }
