@@ -16,7 +16,7 @@ public static void main(String[] args){
 //	integerArrayList.add((100));
 //	System.out.println(integerArrayList);
 	QuaziNew quaziNew = new QuaziNew();
-	quaziNew.QuaziMethod("Sidra");
+	quaziNew.QuaziMethod("engin");
 //	System.out.println("20 April Updation");
 	System.out.println("Update on 20 june 2024");
 	System.out.println("thumbs up");
